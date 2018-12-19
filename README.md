@@ -1,2 +1,2 @@
-# TEXT-MINIG
-SENTIMENT ANALYSIS ON SPEECH
+# Martin Luther King Speech Analysis 
+Sentiment Analysis using Lexicons on Martin Luther King's Speech
